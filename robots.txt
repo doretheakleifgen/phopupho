@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vohvoomahe.csp-generator.cloud/sitemap.xml
